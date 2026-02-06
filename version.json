@@ -1,6 +1,7 @@
 {
-    "latest_version": "0.1.0",
-    "release_date": "2026-01-20",
+    "latest_version": "0.2.0",
+    "latest_codename": "Cinnamon",
+    "release_date": "2026-02-06",
     "importance": "high",
     "download_url": "https://github.com/drivemania/hochoboard-latest/releases",
     "notice_url": "",
