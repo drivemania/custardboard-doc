@@ -1,9 +1,9 @@
 {
-    "latest_version": "0.3.0",
+    "latest_version": "0.4.0",
     "latest_codename": "Cinnamon",
-    "release_date": "2026-03-13",
+    "release_date": "2026-03-17",
     "importance": "high",
-    "download_url": "https://github.com/drivemania/custardboard-latest/releases",
+    "download_url": "https://github.com/drivemania/custardboard-latest",
     "notice_url": "",
     "message": "커스터드보드 베타 버전입니다."
 }
